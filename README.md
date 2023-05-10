@@ -1,6 +1,6 @@
 # Deep-Learning-Model
 Different practices using Deep learning Structure
-# Deep Learning Image Recognition Practice: Music genre classification
+# Deep Learning Model Practice: Music genre classification
 ## CNN Model: train a CNN based classifier on the Mel spectrograms to predict the corresponding music genres
  First parallel branch:
   1. one convolutional layer processing the input data with 3 square filters of size 8, padding and leaky ReLU activation function with slope 0.3.

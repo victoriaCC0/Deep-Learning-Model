@@ -1,4 +1,4 @@
-# Deep-Learning-Model
+# Deep Learning Model Practice-Music genre classification
 Different practices using Deep learning Structure
 # Deep Learning Model Practice: Music genre classification
 ## CNN Model: train a CNN based classifier on the Mel spectrograms to predict the corresponding music genres
